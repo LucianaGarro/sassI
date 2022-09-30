@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Dongle:wght@300&family=Oooh+Baby&family=Roboto:wght@100&family=Sedgwick+Ave&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: "Dongle", sans-serif;
+}
+
+body {
+  background-color: blueviolet;
+}
+
+.content__titulo {
+  background-color: pink;
+}
+.content__titulo h1 {
+  color: red;
+  font-size: 60px;
+}
+.content__titulo p {
+  font-size: 35px;
+  color: pink;
+}
+
+.content__titulo2 {
+  background-color: blueviolet;
+}
+.content__titulo2 h1 {
+  color: goldenrod;
+  text-align: center;
+  font-size: 90px;
+}
+.content__titulo2 p {
+  color: goldenrod;
+  font-size: 50px;
+}
+
+header {
+  background-color: red;
+  padding: 3rem 0;
+}
+header nav {
+  width: 80%;
+  margin: 0 auto;
+}
+header nav ul {
+  display: flex;
+  justify-content: space-around;
+}
+header nav ul li {
+  list-style-type: none;
+  text-transform: uppercase;
+  font-weight: 300px;
+  font-size: 40px;
+}
+header nav ul li a {
+  text-decoration: none;
+  color: red;
+}/*# sourceMappingURL=style.css.map */

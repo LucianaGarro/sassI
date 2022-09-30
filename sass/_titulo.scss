@@ -1,0 +1,28 @@
+.content__titulo{
+    background-color: $shaki;
+
+    h1 {
+        color: red;
+        font-size: $size;
+    }
+
+    p {
+        font-size: 35px;
+        color: $shaki;
+    }
+}
+
+$size:90px;
+.content__titulo2 {
+    background-color: blueviolet;
+
+    h1 {
+        color: goldenrod;
+        text-align: center;
+        font-size: $size;
+    }
+    p {
+        color: goldenrod;
+        font-size: 50px;
+    }
+  }
